@@ -1,2 +1,2 @@
-printf("Good Night");
+printf("Good");
 printf("Good Morning");
